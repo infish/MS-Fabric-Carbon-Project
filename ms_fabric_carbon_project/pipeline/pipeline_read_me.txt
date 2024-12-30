@@ -1,0 +1,1 @@
+V tomto projectu stačila jednoduchá pipeline která na úspěšné vykonání notebooku spustí další notebook v řade a denně se opakuje před půlnocí.
